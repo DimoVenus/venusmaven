@@ -4,12 +4,12 @@
 
 	<!-- Groupe -->
 	<groupId>com.notilus</groupId>
-	<artifactId>venusmaven</artifactId>
+	<artifactId>venus-maven-plugin</artifactId>
 	<version>1.0.0</version>
 	<packaging>maven-plugin</packaging>
 
 	<!-- Nom -->
-	<name>parsecss-maven-plugin</name>
+	<name>venus-maven-plugin</name>
 	
 	<!-- Propriétés -->
 	<properties>
