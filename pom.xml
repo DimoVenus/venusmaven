@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<!-- Groupe -->
-	<groupId>com.notilus.maven</groupId>
-	<artifactId>parsecss-maven-plugin</artifactId>
+	<groupId>com.notilus</groupId>
+	<artifactId>venusmaven</artifactId>
 	<version>1.0.0</version>
 	<packaging>maven-plugin</packaging>
 
@@ -57,7 +57,6 @@
 				<artifactId>maven-plugin-plugin</artifactId>
 				<version>3.4</version>
 				<configuration>
-					<goalPrefix>parsecss-maven-plugin</goalPrefix>
 					<skipErrorNoDescriptorsFound>true</skipErrorNoDescriptorsFound>
 				</configuration>
 				<executions>
